@@ -238,67 +238,8 @@
             "Assigned Frequency": "588.800 MHz",
             "Serial Number": "",
             "Comments": ""
-        },
-        {
-            "id": 17,
-            "Building": "Carpenter Center",
-            "Room": "B-04",
-            "Make": "Shure",
-            "Model": "L4-K",
-            "Mic Type": "HandHeld",
-            "Freq Range": "VHF Fixed",
-            "Freq. Band": "",
-            "Group": "---------",
-            "Channel": "_______",
-            "Assigned Frequency": "177.000 MHZ",
-            "Serial Number": "R9328655186",
-            "Comments": ""
-        },
-        {
-            "id": 18,
-            "Building": "Carpenter Center",
-            "Room": "B-04",
-            "Make": "Shure",
-            "Model": "ULX P4",
-            "Mic Type": "Lav",
-            "Freq Range": "554 - 590 MHZ",
-            "Freq. Band": "J1",
-            "Group": "G2",
-            "Channel": "CH20",
-            "Assigned Frequency": "589.725 MHZ",
-            "Serial Number": "",
-            "Comments": ""
-        },
-        {
-            "id": 19,
-            "Building": "Cter For Eu Studies",
-            "Room": "Conference Room",
-            "Make": "Shure",
-            "Model": "ULX P4",
-            "Mic Type": "Lav",
-            "Freq Range": "554-590 MHZ",
-            "Freq. Band": "J1",
-            "Group": "G1",
-            "Channel": "CH1",
-            "Assigned Frequency": "556.375 MHZ",
-            "Serial Number": "",
-            "Comments": ""
-        },
-        {
-            "id": 20,
-            "Building": "CGIS North & South",
-            "Room": "CGIS S010",
-            "Make": "Shure",
-            "Model": "ULX P4",
-            "Mic Type": "Lav",
-            "Freq Range": "662 - 698 MHZ",
-            "Freq. Band": "M1",
-            "Group": "G1",
-            "Channel": "CH1",
-            "Assigned Frequency": "663.025 MHz",
-            "Serial Number": "",
-            "Comments": ""
         }
+       
     ],
 
     "users": [{
