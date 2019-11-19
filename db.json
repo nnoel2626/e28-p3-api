@@ -1,7 +1,7 @@
 {
     "products": [{
             "id": 1,
-            "categories": ["portable Mic"]
+            "categories": ["portable Mic"],
             "Building": "Barker Center",
             "Room": "Thompson",
             "Make": "Shure",
@@ -17,7 +17,7 @@
         },
         {
             "id": 2,
-            "categories": ["installed Mic"]
+            "categories": ["installed Mic"],
             "Building": "Barker Center",
             "Room": "Thompson",
             "Make": "Shure",
@@ -33,7 +33,7 @@
         },
         {
             "id": 3,
-            "categories": ["roaming Mic", "installed Mic"]
+            "categories": ["roaming Mic", "installed Mic"],
             "Building": "Barker Center",
             "Room": "Thompson",
             "Make": "Shure",
@@ -49,7 +49,7 @@
         },
         {
             "id": 4,
-            "categories": ["portable Mic", "roaming Mic"]
+            "categories": ["portable Mic", "roaming Mic"],
             "Building": "Barker Center",
             "Room": "Thompson",
             "Make": "Shure",
@@ -65,7 +65,7 @@
         },
         {
             "id": 5,
-            "categories": [ "installed Mic"]
+            "categories": [ "installed Mic"],
             "Building": "Barker Center",
             "Room": "Thompson",
             "Make": "Shure",
@@ -81,7 +81,7 @@
         },
         {
             "id": 6,
-            "categories": ["portable Mic"]
+            "categories": ["portable Mic"],
             "Building": "Barker Center",
             "Room": "Thompson",
             "Make": "Shure",
@@ -97,7 +97,7 @@
         },
         {
             "id": 7,
-            "categories": [ "installed Mic"]
+            "categories": [ "installed Mic"],
             "Building": "BioLab",
             "Room": "Lecture H 1080",
             "Make": "Shure",
@@ -113,7 +113,7 @@
         },
         {
             "id": 8,
-            "categories": [ "installed Mic"]
+            "categories": [ "installed Mic"],
             "Building": "BioLab",
             "Room": "Lecture H 1080",
             "Make": "Shure",
@@ -129,7 +129,7 @@
         },
         {
             "id": 9,
-            "categories": ["roaming Mic"]
+            "categories": ["roaming Mic"],
             "Building": "Boylston Hall",
             "Room": "Fong Auditorium",
             "Make": "Shure",
@@ -145,7 +145,7 @@
         },
         {
             "id": 10,
-            "categories": ["installed Mic"]
+            "categories": ["installed Mic"],
             "Building": "Boylston Hall",
             "Room": "Fong Auditorium",
             "Make": "Shure",
@@ -161,7 +161,7 @@
         },
         {
             "id": 11,
-            "categories": ["installed Mic"]
+            "categories": ["installed Mic"],
             "Building": "Boylston Hall",
             "Room": "Fong Auditorium",
             "Make": "Shure",
@@ -177,7 +177,7 @@
         },
         {
             "id": 12,
-            "categories": ["portable Mic", "roaming Mic"]
+            "categories": ["portable Mic", "roaming Mic"],
             "Building": "Boylston Hall",
             "Room": "Boylston 104",
             "Make": "Shure",
@@ -193,7 +193,7 @@
         },
         {
             "id": 13,
-            "categories": ["portable Mic", "roaming Mic"]
+            "categories": ["portable Mic", "roaming Mic"],
             "Building": "Carpenter Center",
             "Room": "Theater",
             "Make": "Shure",
@@ -209,7 +209,7 @@
         },
         {
             "id": 14,
-            "categories": ["portable Mic", "installed Mic"]
+            "categories": ["portable Mic", "installed Mic"],
             "Building": "Carpenter Center",
             "Room": "Theater",
             "Make": "Shure",
@@ -225,7 +225,7 @@
         },
         {
             "id": 15,
-            "categories": [ "installed Mic"]
+            "categories": [ "installed Mic"],
             "Building": "Carpenter Center",
             "Room": "Theater",
             "Make": "Shure",
@@ -241,7 +241,7 @@
         },
         {
             "id": 16,
-            "categories": ["installed Mic"]
+            "categories": ["installed Mic"],
             "Building": "Carpenter Center",
             "Room": "Theater",
             "Make": "Shure",
