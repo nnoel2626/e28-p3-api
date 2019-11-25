@@ -33,7 +33,7 @@
         },
         {
             "id": 3,
-            "categories": ["roamingMic", "installedMic"],
+            "categories": ["roamingMic"],
             "building": "Barker Center",
             "room": "Thompson",
             "make": "Shure",
