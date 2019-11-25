@@ -209,7 +209,7 @@
         },
         {
             "id": 14,
-            "categories": ["portableMic", "installedMic"],
+            "categories": ["portableMic"],
             "building": "Carpenter Center",
             "room": "Theater",
             "make": "Shure",
